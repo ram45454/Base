@@ -42,3 +42,4 @@ winn
 loni
 kitu
 wbinn
+loose
