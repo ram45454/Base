@@ -26,3 +26,4 @@ soi
 wey
 swt
 zillion 
+somo
