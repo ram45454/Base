@@ -40,3 +40,4 @@ wnin
 wnoi
 winn
 loni
+kitu
