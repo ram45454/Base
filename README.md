@@ -3,3 +3,4 @@ look
 bet
 sui
 set
+lot
