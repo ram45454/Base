@@ -15,3 +15,4 @@ zogo
 lkty
 swet
 beny
+vogo
