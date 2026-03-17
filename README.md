@@ -12,3 +12,4 @@ zer
 logo
 gogo 
 zogo
+lkty
