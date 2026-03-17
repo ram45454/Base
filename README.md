@@ -33,7 +33,7 @@ winn
 winoi
 awiy
 winyt
-quety
+quety in
 newts
 vibt
 wnin
@@ -41,3 +41,4 @@ wnoi
 winn
 loni
 kitu
+wbinn
