@@ -37,3 +37,4 @@ quety
 newts
 vibt
 wnin
+wnoi
