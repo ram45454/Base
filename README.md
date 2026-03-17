@@ -16,3 +16,4 @@ lkty
 swet
 beny
 vogo
+soy
