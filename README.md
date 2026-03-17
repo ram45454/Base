@@ -23,3 +23,4 @@ look
 bey
 mon
 soi
+wey
