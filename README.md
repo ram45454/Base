@@ -38,3 +38,4 @@ newts
 vibt
 wnin
 wnoi
+winn
