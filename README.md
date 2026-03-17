@@ -32,3 +32,4 @@ win
 winn
 winoi
 awiy
+winyt
