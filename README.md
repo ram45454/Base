@@ -13,3 +13,4 @@ logo
 gogo 
 zogo
 lkty
+swet
