@@ -24,3 +24,4 @@ bey
 mon
 soi
 wey
+swt
